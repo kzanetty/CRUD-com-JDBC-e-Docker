@@ -7,5 +7,5 @@ Projeto exemplo de como fazer CRUD.
   - update
   - delete
   
-Usando a API padrão JDBC da biblioteca do java para aceso ao banco de dados.
+Usando a API padrão JDBC do java para aceso ao banco de dados.
 Usando o banco de dados Mysql apartir de um container no Docker.
